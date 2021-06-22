@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "725401800534",
+    "project_id": "realtimefirebase2021-e22b0",
+    "storage_bucket": "realtimefirebase2021-e22b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:725401800534:android:89bbc747287ddd7f1910f7",
+        "android_client_info": {
+          "package_name": "com.pucpr.realtimefirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "725401800534-lnfg4vjuv1bvb4iop93h92bahu1e3g37.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYrHseXK_oE9VInNZ6mbeWdVI1GRPTQgk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "725401800534-lnfg4vjuv1bvb4iop93h92bahu1e3g37.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

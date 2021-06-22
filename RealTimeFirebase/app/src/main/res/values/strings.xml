@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">RealTimeFirebase</string>
+    <string name="nome">Nome</string>
+    <string name="senha">Senha</string>
+    <string name="firebase_login">Firebase Login</string>
+    <string name="firebase_register">FIREBASE REGISTER</string>
+    <string name="fa_a_o_login">Faça o login!</string>
+    <string name="adicionar_valores_na_lista_user">adicionar valores na lista user</string>
+    <string name="add">Add</string>
+    <string name="menu_de_cria_o_de_clientes">Menu de criação de clientes</string>
+    <string name="confirmar_cria_o">Confirmar criação</string>
+    <string name="nome_do_cliente">Nome do cliente</string>
+    <string name="cpf_do_cliente">CPF do cliente</string>
+    <string name="confirmar">Confirmar</string>
+    <string name="email_do_cliente">Email do cliente</string>
+    <string name="visualiza_o_de_clientes">Visualização de clientes</string>
+    <string name="menu_de_cria_o_de_lojas">Menu de criação de lojas</string>
+    <string name="todo">TODO</string>
+    <string name="endere_o_da_loja">Endereço da loja</string>
+    <string name="visualiza_o_da_loja">Visualização da loja</string>
+</resources>
